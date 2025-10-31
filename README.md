@@ -21,6 +21,7 @@ The goal of this project is to practice **functions, loops, user input handling,
 ## Example Menu
 
 Inventory Management System
+
 -----------------   Menu   -----------------
 
 Add new product to the inventory
