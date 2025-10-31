@@ -46,12 +46,19 @@ Please select an option (1-7):
 ## Example Workflow
 
 Please enter a name of a product: Coffee
+
 Enter the price of a product: $3.50
+
 Please enter quantity for this product: 20
+
 Coffee has been added to the inventory at $3.50 with a quantity of 20.
+
 Sold 5 'Coffee' for $17.50
+
 Remaining 'Coffee' quantity: 15
+
 Transaction 1: $17.50
+
 Today total revenue is $17.50
 
 ---
