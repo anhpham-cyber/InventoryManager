@@ -1,7 +1,7 @@
 # Inventory Management System
 
-This is a simple **Inventory Management System** built with Python.  
-It allows you to add, update, and manage products, track sales, and calculate total revenue.  
+A Python-based Inventory Management System. Add, view, update, and search products, process sales, and track daily revenue. A hands-on project to practice Python programming, data handling, and simple user interaction.
+
 The goal of this project is to practice **functions, loops, user input handling, and data management using dictionaries**.
 
 ---
